@@ -1,4 +1,3 @@
 # 3dalgolab.github.io
 
-- Test
-- Product
+- Single Page Company Intro.
